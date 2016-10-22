@@ -1,0 +1,1 @@
+Reversi bot created as term paper at MIPT. Implemented using alpha--beta pruning algorithm.
